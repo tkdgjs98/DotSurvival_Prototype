@@ -17,9 +17,11 @@
 
 모바일 게임 브롤스타즈 모티브로 제작하였습니다. 쿼터뷰 시점에서 바닥에 스폰된 무기를 획득하여 주어진 시간동안 타인을 최대한 많이 사살하는 데스매치 룰을 가진 게임입니다.
 
-- 게임 플레이 gif
+- 게임 플레이 영상
 
-  ![DotSurvival_시연영상](https://github.com/tkdgjs98/DotSurvival_Prototype/assets/89759616/4a44f629-2d4d-444e-8d37-f718327069e6)
+https://github.com/tkdgjs98/DotSurvival_Prototype/assets/89759616/24f917f5-a771-4f72-9937-eb66e84fe972
+
+
 
 - 던그리드 개발자님의 리소스 허가 메일
  ![응애](https://github.com/tkdgjs98/DotSurvival_Prototype/assets/89759616/653f74ff-3ed6-423c-8dd9-f6b730506b2e)

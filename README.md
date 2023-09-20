@@ -19,9 +19,10 @@
 
 - 게임 플레이 영상
 
-https://github.com/tkdgjs98/DotSurvival_Prototype/assets/89759616/24f917f5-a771-4f72-9937-eb66e84fe972
+https://github.com/tkdgjs98/DotSurvival_Prototype/assets/89759616/63293673-6a05-4405-918f-1f48281b2f4a
+
 
 
 
 - 던그리드 개발자님의 리소스 허가 메일
- ![응애](https://github.com/tkdgjs98/DotSurvival_Prototype/assets/89759616/653f74ff-3ed6-423c-8dd9-f6b730506b2e)
+ ![리소스_허가_메일](https://github.com/tkdgjs98/DotSurvival_Prototype/assets/89759616/71e30627-3b8f-426c-afca-5d0b200b3f1c)

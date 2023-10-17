@@ -1,4 +1,6 @@
 # DotSurvival_Prototype
+작성했던 코드 위치 : Assets/PrivateFolder/Script
+
 게임 장르 : 로컬 멀티플레이 온라인 슈팅 게임
 
 사용 엔진 : Unity3D
